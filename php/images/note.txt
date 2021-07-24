@@ -1,1 +1,1 @@
-This folder gets filled up when users upload their images in website.
+This 'images' folder gets filled up when users upload their images in website.
